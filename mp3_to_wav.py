@@ -12,7 +12,7 @@ from pydub import AudioSegment
 #GLOBAL CONSTANTS
 
 MP3_FOLDER = "mp3_audio"
-WAV_FOLDER = "original_audio"
+WAV_FOLDER = "wav_audio"
 
 
 def main(): 

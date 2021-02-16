@@ -6,7 +6,7 @@ from wavSpliter import AudioSplitter
 
 #GLOBAL CONSTANTS
 SPEECH_RECOGNIZER = sr.Recognizer() #It should be global
-ORIGINAL_AUDIO_FOLDER = "original_audio"
+ORIGINAL_AUDIO_FOLDER = "wav_audio"
 AUDIO_CHUNKS_FOLDER = "audio_chunks"
 TRANSCRIPTS_FOLDER = "extracted_transcripts"
 
