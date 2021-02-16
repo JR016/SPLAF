@@ -12,9 +12,10 @@ DO NOT WIRTE THE NAME OF THE FOLDER IN WHICH THE AUDIO FILES YOU WANT TO WORK ON
 
 THIS PROJECT IS NOT ACCURATE, SO IT WILL MAKE MISTAKES.
 
-THE ONLY FILES THAT YOU CAN DELETE ARE THE "README.md" FILE AND THE ".gitignore" FILE.
-
 The terminal must be placed at the folder location of the project.
+
+If it's your first time using this project, please run the "run_first.py" file first, it will install all the required modules for audio handling and
+Speech Recognition and also vital folders that the project needs to work.
 
 There are two python files that are run through the terminal and need command line arguments to work properly, otherwise they will return "Inappropiate Input."
 
